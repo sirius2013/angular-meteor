@@ -1,4 +1,4 @@
-# Run this script from home folder
+# Run this script from home folder 1
 
 # configs variables
 NAME=angular-meteor # Set the bundle file name
